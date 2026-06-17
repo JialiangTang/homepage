@@ -13,9 +13,6 @@ photo: headshot.jpg  # place your photo in images/
 links:
   google_scholar: "https://scholar.google.com/citations?user=Hhv1MlUAAAAJ"
   github: "https://github.com/JialiangTang"
-  researchgate: ""
-  orcid: ""
-  twitter: ""
   linkedin: ""
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
@@ -25,7 +22,7 @@ links:
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Dr. Richard Feynman"
-baseurl: ""
+baseurl: "/homepage"
 url: ""
 
 # Google Analytics — paste your GA4 measurement ID, or leave blank
