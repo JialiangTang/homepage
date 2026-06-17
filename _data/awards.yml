@@ -1,7 +1,8 @@
-# Awards and honors, shown on the About page.
+# Academic awards and honors, shown on the Awards page.
 # Each entry needs: name
-- name: Nobel Prize in Physics (1965)
-- name: Albert Einstein Award (1954)
-- name: E.O. Lawrence Award (1962)
-- name: Oersted Medal, AAPT (1972)
-- name: National Medal of Science (1979)
+- name: <strong>Freshmen Scholarship</strong> granted by Institute of Computing Technology, CAS (12 out of 495, 2025)
+- name: <strong>Bronze Award</strong> of the 49th ICPC Asia Regional Contest in Nanjing (2024)
+- name: <strong>Leeuwenhoek Award</strong> of the 3rd CCF "Sinan" Cup Quantum Programming Contest (2024)
+- name: <strong>Excellent Undergraduate Thesis</strong> granted to "Quantum circuit synthesis with SQiSW" by UCAS (top 8%, 2024)
+- name: <strong>Academic Scholarship</strong> granted by UCAS (top 15% each year, 2021-2023)
+- name: <strong>Outstanding Student of Beijing</strong> granted by Beijing Municipal Committee of the Communist Youth League (8 out of 66292 in UCAS, 2022)

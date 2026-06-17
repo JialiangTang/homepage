@@ -114,5 +114,13 @@
     color: var(--text-secondary);
     font-size: 0.875rem;
     line-height: 1.5;
+
+    p {
+      margin: 0;
+    }
+
+    p + p {
+      margin-top: var(--space-1);
+    }
   }
 }

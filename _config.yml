@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Jialiang Tang"
-title: "PhD. student of Computer Science"
+title: "Ph.D. student in Computer Science"
 institution: "Institute of Computing Technology, Chinese Academy of Sciences"
 email: tangjialiang20@mails.ucas.ac.cn
 photo: headshot.jpg  # place your photo in images/
@@ -33,14 +33,14 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
   - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: awards
+  # - name: talks
+  # - name: research
+  # - name: software
+  # - name: team
+  - name: services
+  # - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)

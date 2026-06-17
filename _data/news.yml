@@ -3,5 +3,7 @@
 # Each entry needs: date, headline
 - date: 1 May, 2026
   headline: "🎉Our paper **SAQNN: Spectral Adaptive Neural Network as a Universal Approximator** has been accepted as Poster in **ICML 2026**!"
+- date: 8 May, 2025
+  headline: "⚽As an outside helper, I won **the championship in 2026 Football Tournament** with the second-year team, held by Academy of Mathematics and Systems Science (AMSS)!"
 - date: 10 December, 2025
   headline: "🎉Our paper **Quantum Circuit Synthesis with SQiSW** has been published by **Quantum**!"
