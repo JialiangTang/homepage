@@ -9,8 +9,8 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Circuit Synthesis</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Machine Learning</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Quantum Circuit Synthesis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/publications" class="chip">Quantum Machine Learning</a>
 <!-- <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Superfluidity</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Parton Model</a>
 <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Quantum Computing</a>
