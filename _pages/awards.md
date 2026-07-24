@@ -19,6 +19,9 @@ permalink: /awards/
 <div class="section-card">
 <h3>Others</h3>
 <ul>
-<li>TODO</li>
+<li>Champion of Football Tournament of Academy of Mathematics and Systems Science (AMSS), 2026</li>
+<li>Gold Medal of 4*100m Race at Sports Meeting of UCAS, 2024</li>
+<li>Silver Medal of 4*400m Race at Sports Meeting of UCAS, 2024</li>
+<li>Bronze Medal of 4*100m Race at Sports Meeting of UCAS, 2022</li>
 </ul>
 </div>
